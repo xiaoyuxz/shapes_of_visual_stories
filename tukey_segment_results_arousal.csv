@@ -1,0 +1,141 @@
+group1,group2,meandiff,p-adj,lower,upper,reject,Segment
+Africa,East Asia,0.1238,0.8241,-0.1325,0.3801,False,0
+Africa,Europe,-0.1237,0.6119,-0.3312,0.0838,False,0
+Africa,North America,0.0559,0.9996,-0.2793,0.3911,False,0
+Africa,Oceania,-0.0203,1.0,-0.4834,0.4429,False,0
+Africa,South America,0.1005,0.9245,-0.1489,0.3499,False,0
+Africa,SouthCentral Asia,-0.0113,1.0,-0.2866,0.264,False,0
+Africa,West Asia,0.0091,1.0,-0.2798,0.2979,False,0
+East Asia,Europe,-0.2475,0.0474,-0.4935,-0.0015,True,0
+East Asia,North America,-0.0679,0.9992,-0.4282,0.2924,False,0
+East Asia,Oceania,-0.1441,0.9852,-0.6257,0.3376,False,0
+East Asia,South America,-0.0233,1.0,-0.3056,0.2589,False,0
+East Asia,SouthCentral Asia,-0.1351,0.8812,-0.4405,0.1703,False,0
+East Asia,West Asia,-0.1147,0.9572,-0.4324,0.2029,False,0
+Europe,North America,0.1796,0.7082,-0.1478,0.5069,False,0
+Europe,Oceania,0.1034,0.9973,-0.3541,0.561,False,0
+Europe,South America,0.2242,0.0838,-0.0146,0.463,False,0
+Europe,SouthCentral Asia,0.1124,0.9041,-0.1533,0.3781,False,0
+Europe,West Asia,0.1328,0.8369,-0.147,0.4125,False,0
+North America,Oceania,-0.0762,0.9999,-0.604,0.4517,False,0
+North America,South America,0.0446,0.9999,-0.3108,0.4,False,0
+North America,SouthCentral Asia,-0.0672,0.9994,-0.4412,0.3068,False,0
+North America,West Asia,-0.0468,1.0,-0.4309,0.3373,False,0
+Oceania,South America,0.1207,0.9946,-0.3572,0.5987,False,0
+Oceania,SouthCentral Asia,0.009,1.0,-0.483,0.5009,False,0
+Oceania,West Asia,0.0293,1.0,-0.4704,0.529,False,0
+South America,SouthCentral Asia,-0.1118,0.9491,-0.4114,0.1878,False,0
+South America,West Asia,-0.0914,0.9869,-0.4035,0.2206,False,0
+SouthCentral Asia,West Asia,0.0204,1.0,-0.3128,0.3535,False,0
+Africa,East Asia,0.0557,0.9976,-0.1956,0.307,False,1
+Africa,Europe,-0.1176,0.6432,-0.3199,0.0848,False,1
+Africa,North America,0.1645,0.7979,-0.165,0.494,False,1
+Africa,Oceania,-0.1635,0.9589,-0.6195,0.2926,False,1
+Africa,South America,0.0851,0.9649,-0.1593,0.3296,False,1
+Africa,SouthCentral Asia,-0.1267,0.8451,-0.3969,0.1434,False,1
+Africa,West Asia,-0.0409,0.9999,-0.3244,0.2427,False,1
+East Asia,Europe,-0.1733,0.3688,-0.4155,0.069,False,1
+East Asia,North America,0.1088,0.983,-0.2466,0.4642,False,1
+East Asia,Oceania,-0.2191,0.8563,-0.6942,0.256,False,1
+East Asia,South America,0.0294,1.0,-0.249,0.3078,False,1
+East Asia,SouthCentral Asia,-0.1824,0.5922,-0.4837,0.1188,False,1
+East Asia,West Asia,-0.0965,0.9824,-0.4099,0.2168,False,1
+Europe,North America,0.2821,0.1375,-0.0406,0.6047,False,1
+Europe,Oceania,-0.0459,1.0,-0.497,0.4052,False,1
+Europe,South America,0.2027,0.1502,-0.0324,0.4378,False,1
+Europe,SouthCentral Asia,-0.0092,1.0,-0.2709,0.2526,False,1
+Europe,West Asia,0.0767,0.9903,-0.1989,0.3523,False,1
+North America,Oceania,-0.3279,0.5412,-0.8486,0.1927,False,1
+North America,South America,-0.0794,0.9973,-0.43,0.2712,False,1
+North America,SouthCentral Asia,-0.2912,0.2431,-0.6602,0.0777,False,1
+North America,West Asia,-0.2053,0.721,-0.5842,0.1735,False,1
+Oceania,South America,0.2486,0.7488,-0.2229,0.7201,False,1
+Oceania,SouthCentral Asia,0.0367,1.0,-0.4486,0.5221,False,1
+Oceania,West Asia,0.1226,0.9951,-0.3703,0.6155,False,1
+South America,SouthCentral Asia,-0.2119,0.3656,-0.5074,0.0837,False,1
+South America,West Asia,-0.126,0.9184,-0.4338,0.1819,False,1
+SouthCentral Asia,West Asia,0.0859,0.9934,-0.2427,0.4145,False,1
+Africa,East Asia,-0.0271,1.0,-0.2938,0.2397,False,2
+Africa,Europe,-0.1712,0.2319,-0.3859,0.0436,False,2
+Africa,North America,0.0718,0.9986,-0.2779,0.4215,False,2
+Africa,Oceania,-0.1816,0.9476,-0.6656,0.3024,False,2
+Africa,South America,0.117,0.8704,-0.1425,0.3764,False,2
+Africa,SouthCentral Asia,-0.1344,0.8458,-0.4211,0.1524,False,2
+Africa,West Asia,-0.1984,0.4802,-0.4993,0.1026,False,2
+East Asia,Europe,-0.1441,0.6853,-0.4012,0.1131,False,2
+East Asia,North America,0.0989,0.9933,-0.2783,0.4761,False,2
+East Asia,Oceania,-0.1545,0.9829,-0.6588,0.3497,False,2
+East Asia,South America,0.1441,0.8169,-0.1514,0.4396,False,2
+East Asia,SouthCentral Asia,-0.1073,0.9714,-0.427,0.2124,False,2
+East Asia,West Asia,-0.1713,0.7707,-0.5038,0.1613,False,2
+Europe,North America,0.2429,0.3796,-0.0995,0.5853,False,2
+Europe,Oceania,-0.0105,1.0,-0.4892,0.4683,False,2
+Europe,South America,0.2881,0.0112,0.0386,0.5377,True,2
+Europe,SouthCentral Asia,0.0368,0.9999,-0.241,0.3146,False,2
+Europe,West Asia,-0.0272,1.0,-0.3197,0.2653,False,2
+North America,Oceania,-0.2534,0.8601,-0.806,0.2992,False,2
+North America,South America,0.0452,1.0,-0.3269,0.4173,False,2
+North America,SouthCentral Asia,-0.2062,0.7501,-0.5978,0.1854,False,2
+North America,West Asia,-0.2701,0.4541,-0.6723,0.132,False,2
+Oceania,South America,0.2986,0.6107,-0.2018,0.799,False,2
+Oceania,SouthCentral Asia,0.0472,1.0,-0.4679,0.5623,False,2
+Oceania,West Asia,-0.0167,1.0,-0.5399,0.5064,False,2
+South America,SouthCentral Asia,-0.2514,0.2255,-0.565,0.0623,False,2
+South America,West Asia,-0.3153,0.0674,-0.642,0.0114,False,2
+SouthCentral Asia,West Asia,-0.064,0.9993,-0.4127,0.2848,False,2
+Africa,East Asia,0.0157,1.0,-0.2407,0.2722,False,3
+Africa,Europe,-0.1689,0.2029,-0.3754,0.0376,False,3
+Africa,North America,0.0475,0.9999,-0.2887,0.3837,False,3
+Africa,Oceania,-0.1748,0.9474,-0.6402,0.2906,False,3
+Africa,South America,0.1515,0.5883,-0.0979,0.401,False,3
+Africa,SouthCentral Asia,-0.1067,0.9386,-0.3824,0.169,False,3
+Africa,West Asia,-0.1902,0.4837,-0.4796,0.0992,False,3
+East Asia,Europe,-0.1846,0.3117,-0.4319,0.0626,False,3
+East Asia,North America,0.0318,1.0,-0.3309,0.3945,False,3
+East Asia,Oceania,-0.1905,0.9335,-0.6753,0.2943,False,3
+East Asia,South America,0.1358,0.8319,-0.1483,0.4199,False,3
+East Asia,SouthCentral Asia,-0.1224,0.9289,-0.4298,0.185,False,3
+East Asia,West Asia,-0.206,0.5111,-0.5257,0.1138,False,3
+Europe,North America,0.2164,0.4838,-0.1128,0.5456,False,3
+Europe,Oceania,-0.0059,1.0,-0.4662,0.4545,False,3
+Europe,South America,0.3204,0.0014,0.0805,0.5604,True,3
+Europe,SouthCentral Asia,0.0622,0.9968,-0.2049,0.3294,False,3
+Europe,West Asia,-0.0213,1.0,-0.3026,0.2599,False,3
+North America,Oceania,-0.2223,0.9091,-0.7536,0.3091,False,3
+North America,South America,0.104,0.9874,-0.2537,0.4618,False,3
+North America,SouthCentral Asia,-0.1542,0.9182,-0.5307,0.2224,False,3
+North America,West Asia,-0.2377,0.5727,-0.6244,0.1489,False,3
+Oceania,South America,0.3263,0.441,-0.1548,0.8075,False,3
+Oceania,SouthCentral Asia,0.0681,0.9999,-0.4272,0.5634,False,3
+Oceania,West Asia,-0.0154,1.0,-0.5185,0.4876,False,3
+South America,SouthCentral Asia,-0.2582,0.1566,-0.5598,0.0434,False,3
+South America,West Asia,-0.3418,0.022,-0.6559,-0.0276,True,3
+SouthCentral Asia,West Asia,-0.0836,0.9951,-0.4189,0.2518,False,3
+Africa,East Asia,0.0961,0.9543,-0.1667,0.3588,False,4
+Africa,Europe,-0.1245,0.6288,-0.3363,0.0872,False,4
+Africa,North America,0.0904,0.9932,-0.254,0.4349,False,4
+Africa,Oceania,0.0268,1.0,-0.4499,0.5035,False,4
+Africa,South America,0.0946,0.9512,-0.1609,0.3502,False,4
+Africa,SouthCentral Asia,-0.2532,0.1166,-0.5356,0.0292,False,4
+Africa,West Asia,-0.1201,0.9223,-0.4166,0.1763,False,4
+East Asia,Europe,-0.2206,0.1416,-0.4741,0.0329,False,4
+East Asia,North America,-0.0056,1.0,-0.3772,0.3659,False,4
+East Asia,Oceania,-0.0693,0.9999,-0.5659,0.4274,False,4
+East Asia,South America,-0.0015,1.0,-0.2925,0.2896,False,4
+East Asia,SouthCentral Asia,-0.3493,0.0178,-0.6642,-0.0344,True,4
+East Asia,West Asia,-0.2162,0.4782,-0.5437,0.1113,False,4
+Europe,North America,0.215,0.526,-0.1225,0.5524,False,4
+Europe,Oceania,0.1513,0.9778,-0.3203,0.623,False,4
+Europe,South America,0.2191,0.1218,-0.0269,0.4651,False,4
+Europe,SouthCentral Asia,-0.1287,0.8439,-0.4025,0.1452,False,4
+Europe,West Asia,0.0044,1.0,-0.2838,0.2927,False,4
+North America,Oceania,-0.0636,1.0,-0.6079,0.4807,False,4
+North America,South America,0.0042,1.0,-0.3623,0.3707,False,4
+North America,SouthCentral Asia,-0.3436,0.1217,-0.7293,0.0421,False,4
+North America,West Asia,-0.2105,0.7407,-0.6066,0.1855,False,4
+Oceania,South America,0.0678,0.9999,-0.4251,0.5607,False,4
+Oceania,SouthCentral Asia,-0.28,0.7017,-0.7874,0.2273,False,4
+Oceania,West Asia,-0.1469,0.9888,-0.6622,0.3684,False,4
+South America,SouthCentral Asia,-0.3478,0.0151,-0.6567,-0.0389,True,4
+South America,West Asia,-0.2147,0.4633,-0.5365,0.1071,False,4
+SouthCentral Asia,West Asia,0.1331,0.9381,-0.2104,0.4766,False,4
